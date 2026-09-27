@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Смарт брава</string>
+    <string name="setup_title">Адрес на сървъра</string>
+    <string name="setup_hint">напр. https://lock.example.bg/</string>
+    <string name="setup_help">Адресът на уеб страницата на бравата (където влизате с парола).</string>
+    <string name="setup_save">Запази</string>
+    <string name="setup_invalid">Въведете адрес, започващ с http:// или https://</string>
+    <string name="setup_http_warning">Внимание: адресът е без HTTPS. Паролата ще минава некриптирана — използвайте само в доверени мрежи.</string>
+    <string name="menu_reload">Обнови</string>
+    <string name="menu_change_url">Смени адреса</string>
+    <string name="error_title">Няма връзка със сървъра</string>
+    <string name="retry">Опитай пак</string>
+    <string name="share_title">Изпрати кода</string>
+    <string name="copied">Копирано</string>
+</resources>

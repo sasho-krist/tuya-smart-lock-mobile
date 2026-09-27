@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- дъга на катинара -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,50 L42,42 A12,12 0 0,1 66,42 L66,50"
+        android:strokeWidth="6"
+        android:strokeColor="#FFFFFF" />
+    <!-- тяло -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,50 L74,50 Q78,50 78,54 L78,76 Q78,80 74,80 L34,80 Q30,80 30,76 L30,54 Q30,50 34,50 Z" />
+    <!-- ключалка -->
+    <path
+        android:fillColor="#2563EB"
+        android:pathData="M54,58 A5,5 0 1,1 53.99,58 Z M52,64 L56,64 L56,72 L52,72 Z" />
+</vector>
