@@ -1,0 +1,10 @@
+<resources>
+    <!-- Android 15 изтегля съдържанието под лентите (edge-to-edge); тук е по-просто то да остане под тях. -->
+    <style name="Theme.SmartLock" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary</item>
+        <item name="colorAccent">@color/primary</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:windowOptOutEdgeToEdgeEnforcement">true</item>
+    </style>
+</resources>
